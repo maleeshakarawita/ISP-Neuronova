@@ -1,6 +1,10 @@
 # 🧠 Bilateral Hemispheric Coupling in the Mouse Brain
 ### *Widespread. Dissociated. Revealing.*
 
+<img width="1858" height="902" alt="image" src="https://github.com/user-attachments/assets/97deee8f-f8e7-4d31-a2fe-fe182c1ebc67" />
+
+
+
 ---
 
 ## ✦ Overview
@@ -69,8 +73,6 @@ Cross-correlograms revealed three distinct coupling fingerprints:
 | ⬆️ Asymmetric positive-lag | Retrosplenial, Posterior Thalamus | Directional relay |
 
 <img width="1109" height="741" alt="image" src="https://github.com/user-attachments/assets/439c70ef-668c-4538-96d9-4f730dc52394" />
-
-<img width="1858" height="902" alt="image" src="https://github.com/user-attachments/assets/97deee8f-f8e7-4d31-a2fe-fe182c1ebc67" />
 
 
 ---
