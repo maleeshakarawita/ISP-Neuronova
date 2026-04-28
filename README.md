@@ -98,18 +98,21 @@ within-hemisphere trajectory analysis — fed into three core outputs:
 
 ## ✦ The Four-Quadrant Brain
 
-Plotting **within-hemisphere decision strength** (Fréchet distance) against **between-hemisphere coupling** reveals a 2D organizational space with four functional identities:
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/223902db-c06a-4b41-82fa-cf7ec5fdc2df" />
 
-```
-High coupling ┤
-              │  🔵 Hippocampus     🟢 PL6a, ILA6a, PO
-              │  (sync but silent)  (the decision makers)
-              │
-              │  ⬜ Weak both       🟡 MOs5, MOs6a
-              │                     (independent encoders)
-Low coupling  ┤
-              └─────────────────────────────────────────
-              Low encoding          High encoding
+Plotting **within-hemisphere decision strength** (Fréchet distance) against 
+**between-hemisphere coupling** (CCA peak r) reveals four functional identities:
+
+| Quadrant | Regions | Interpretation |
+|----------|---------|----------------|
+| 🔵 Strong coupling + Weak encoding | SUB, CA1, DG | Hemispheres sync heavily but don't share decision info |
+| 🟢 Strong coupling + Strong encoding | PO, ILA6a, PL6a, MOs2/3 | The true bilateral decision-makers |
+| 🟡 Strong encoding + Independent hemispheres | MOs5, VISpm2/3 | Each hemisphere decides alone |
+| ⬜ Weak both | bsc, alv, VISpm4 | Minimal bilateral coordination |
+
+> **Key insight:** High synchrony does not equal high decision content —
+> the hippocampus talks loudly across hemispheres but says little about 
+> the animal's choice.
 ```
 
 ---
