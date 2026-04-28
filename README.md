@@ -85,13 +85,15 @@ Neural activity from **-500 to 0 ms** pre-movement was PCA-compressed to
 communication mode. Two parallel paths — cross-correlograms and 
 within-hemisphere trajectory analysis — fed into three core outputs:
 
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/89a370b5-6f54-4f02-9ff4-1260ffee49d4" />
+
+
 | Metric | Description |
 |--------|-------------|
 | `r_peak` | Bilateral coupling strength |
 | `r_choice` | Choice information in the bilateral subspace |
 | `hemisphere_dominance` | Asymmetry between hemispheres in decision encoding |
 
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/89a370b5-6f54-4f02-9ff4-1260ffee49d4" />
 
 
 ---
@@ -113,7 +115,6 @@ Plotting **within-hemisphere decision strength** (Fréchet distance) against
 > **Key insight:** High synchrony does not equal high decision content —
 > the hippocampus talks loudly across hemispheres but says little about 
 > the animal's choice.
-```
 
 ---
 
