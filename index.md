@@ -75,19 +75,3 @@ Our study has several limitations. The IBL Brainwidemap dataset is dominated by 
 
 Given the wealth of unilateral data and the restrictions in obtaining bilateral recordings, machine-learning frameworks are being developed to infer contralateral dynamics from recorded hemispheres. Applied to IBL's large-scale left-hemisphere data, such models could probe bilateral dynamics at greater scale. Optogenetic unilateral silencing of top choice-encoding regions would test whether bilateral coupling is causally necessary for coordinated choice. Linking coupling strength to behavioral outcomes (accuracy, stimulus contrast) would clarify its functional relevance. Decoding-based extensions, replacing Pearson correlation with classifiers trained jointly on canonical variates, would more precisely resolve when decision information emerges in the bilateral subspace. Together, these directions would move the field from characterizing interhemispheric coordination to testing its computational necessity.
 
-
-```{figure} figure.png
-:name: figure-main
-:alt: Multi-panel figure showing bilateral coupling dissociated from choice encoding
-
-\
-**A.** Top 15 brain regions ranked by bilateral CCA coupling strength (peak r) with 95% bootstrap confidence intervals. Hippocampal formation and midbrain nuclei dominate the top ranks.
-\
-**B.** Choice encoding strength (peak r_choice) plotted against bilateral coupling strength (r_peak) for all 39 regions, colored by peak latency relative to movement onset. The absence of correlation (Spearman ρ = −0.21, p = 0.17) demonstrates the spatial dissociation.
-\
-**C.** Three-panel Swanson flatmap: bilateral coupling strength (left), choice encoding (middle), and decision fraction (right), visualizing the anatomical dissociation between coupling and choice content.
-\
-**D.** Cross-correlogram heatmap of bilateral canonical variates across all regions (±500 ms lags). Three distinct temporal coupling regimes are visible: oscillatory zero-lag (hippocampus/midbrain), sustained tonic (prefrontal/collicular), and asymmetric lag profiles (retrosplenial/thalamic).
-\
-**E.** 2D organizational scatter: within-hemisphere decision strength (Fréchet distance) vs between-hemisphere coupling (CCA peak r), revealing four functional quadrants of bilateral organization.
-```
