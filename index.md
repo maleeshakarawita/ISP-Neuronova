@@ -26,10 +26,8 @@ Bilateral coupling evolution was characterized via coupling_range = max(r_time) 
 
 ## 2.5 Choice Encoding Analysis
 Choice was normalized to ±1 and correlated with canonical variates at each time bin: 
-\[
-\text{bilateral choice encoding} =
-\frac{|r_{\text{choice},U}(t)| + |r_{\text{choice},V}(t)|}{2}
-\] 
+bilateral choice encoding = (|r_choice_U(t)| + |r_choice_V(t)|) / 2.
+
 We extracted r_choice_peak, r_choice_mean, and peak_latency per region. Phase-specific choice encoding was computed for each trial phase. Spearman correlation tested whether bilateral coupling independently predicts choice encoding.
 
 ## 2.6 Choice Decoding Analysis
