@@ -15,7 +15,7 @@ This repository accompanies the paper:
 *Yegarmina, A. · Karawita, M. · Kaleem, H. · Samimi, Z.*
 Neuromatch Academy, Neuromatch Inc. | NUST, Pakistan
 
-We set out to answer a deceptively simple question: **Do the brain regions that talk to each other the most also make decisions together?**
+We set out to answer a simple question: **Do the brain regions that talk to each other the most also make decisions together?**
 
 The answer — emphatically, elegantly — is **NO**.
 
@@ -29,7 +29,7 @@ What we found rewrites intuition:
 
 | What we expected | What we found |
 |---|---|
-| Strongly coupled regions = strong decision encoders | **They're completely uncorrelated** (ρ = −0.21) |
+| Strongly coupled regions = strong decision encoders | **They're uncorrelated** (ρ = −0.21) |
 | Hippocampus drives decisions bilaterally | **Hippocampus synchronizes maximally but encodes choice minimally** |
 | Cross-hemisphere relay is sequential | **Zero-lag dominance suggests simultaneous common-input drive** |
 
