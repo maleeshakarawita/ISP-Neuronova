@@ -1,8 +1,6 @@
 # 🧠 Bilateral Hemispheric Coupling in the Mouse Brain
 ### *Widespread. Dissociated. Revealing.*
 
-> **"The brain speaks in two voices — and they don't always say the same thing."**
-
 ---
 
 ## ✦ Overview
