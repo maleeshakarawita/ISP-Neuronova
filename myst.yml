@@ -8,10 +8,10 @@ project:
   # doi: 10.5281/zenodo.XXXXXXX
   # date: YYYY-MM-DD
   authors:
-  - name: Doe, J.
-    orcid: 0000-0000-0000-0001
+  - name: Anastassiya Yegarmina
+    orcid: 0009-0005-0791-9866
     affiliations:
-    - Department of Geosciences and Natural Resource Management, University of Copenhagen, Denmark
+    - Neuromatch Academy
     roles:
     - Conceptualization
     - Formal analysis
