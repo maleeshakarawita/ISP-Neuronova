@@ -139,7 +139,7 @@ The CCA pipeline here is fully reusable — and naturally extends to **ML-based 
 git clone https://github.com/maleeshakarawita/Neuronova
 ```
 
-**Stack**: Python 3.10 · scikit-learn · numpy · scipy · pandas
+**Stack**: Python 3.10 · one-api · scikit-learn · numpy · scipy · pandas
 
 ---
 
