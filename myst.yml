@@ -22,11 +22,14 @@ project:
     - Writing - original draft
     - Writing - review & editing
   - name: Hamna Kaleem
-    orcid: 0000-0000-0000-0002
+    orcid: 0009-0000-8906-3291
     affiliations:
     - School of Electrical Engineering & Computer Science (SEECS), National University of Science & Technology (NUST), Pakistan
     roles:
+    - Conceptualization
+    - Investigation
     - Formal analysis
+    - Writing - original draft
     - Writing - review & editing
   - name: Tanaka, S.
     affiliations:
