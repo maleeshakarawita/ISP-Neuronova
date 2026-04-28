@@ -44,6 +44,7 @@ MRN  ████████████████████  r = 0.87
 ...
 VISpm2/3  ██████            r = 0.25  ← Weakest
 ```
+![Caption](figures/Figure_1. Top 15 brain regions ranked by bilateral coupling strength.png)
 
 ### 2 · Coupling ≠ Choice
 The **prefrontal cortex** — not the hippocampus — routes decision information bilaterally:
