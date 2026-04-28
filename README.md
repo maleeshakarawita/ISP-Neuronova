@@ -11,9 +11,9 @@ This repository accompanies the paper:
 *Yegarmina, A. · Karawita, M. · Kaleem, H. · Samimi, Z.*
 Neuromatch Academy, Neuromatch Inc. | NUST, Pakistan
 
-We set out to answer a deceptively simple question: **do the brain regions that talk to each other the most also make decisions together?**
+We set out to answer a deceptively simple question: **Do the brain regions that talk to each other the most also make decisions together?**
 
-The answer — emphatically, elegantly — is **no**.
+The answer — emphatically, elegantly — is **NO**.
 
 ---
 
