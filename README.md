@@ -79,9 +79,9 @@ Cross-correlograms revealed three distinct coupling fingerprints:
 
 ## ✦ Methods at a Glance
 
-```
 
-```
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/89a370b5-6f54-4f02-9ff4-1260ffee49d4" />
+
 
 **Significance**: 500-permutation shuffle test (right-hemisphere trial order)
 **Aggregation**: Fisher z-transformation across sessions
