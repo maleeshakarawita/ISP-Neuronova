@@ -80,6 +80,9 @@ Cross-correlograms revealed three distinct coupling fingerprints:
 ## ✦ Methods at a Glance
 
 ```
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/4a612d37-6852-4ae2-a2cb-13e84c5f9006" />
+
 IBL Brainwidemap Dataset
         │
         ▼
