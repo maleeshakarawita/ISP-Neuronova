@@ -48,7 +48,8 @@ Python 3.10; scikit-learn, numpy, scipy.stats, pandas. All code and reproducible
 
 Temporal CCA, applied independently at each time bin with cross-validation, is robust to temporal misalignments from spike sorting and circuit-specific timescales, ensuring regional differences in coupling reflect genuine interhemispheric coordination rather than biophysical confounds. All 39 regions showed coupling above permutation null, ranging from r = 0.25 (VISpm2/3) to r = 0.96 (SUB)(Figure 1) <p align="center">
   <img src="figures/Figure_1. Top 15 brain regions ranked by bilateral coupling strength.png" width="800"/>
-</p>. 
+</p>.
+
 Hippocampal formation (SUB: 0.96; CA1: 0.91; DG: 0.85–0.88) and midbrain nuclei (APN: 0.89; MRN: 0.87) showed the strongest coupling; higher visual areas the weakest (Supplementary Figure 1). This heterogeneity argues against a single global synchronization mechanism and suggests an extension of the distributed coding framework (Steinmetz et al., 2019) to the interhemispheric domain.
 
 ## 3.2 Coupling strength and choice encoding are dissociated. 
