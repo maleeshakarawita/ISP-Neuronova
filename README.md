@@ -54,6 +54,9 @@ The **prefrontal cortex** — not the hippocampus — routes decision informatio
 - **ILA6a**: decision fraction = 0.20 · post-movement · integration
 - **CA1**: decision fraction = 0.04 · despite r = 0.91 coupling
 
+<img width="1128" height="846" alt="image" src="https://github.com/user-attachments/assets/0511c2ec-ea1e-4da3-b789-6f4d2cf257ad" />
+
+
 > Hippocampal hemispheres *know* the animal's choice (AUC ≈ 0.65) — they just don't *talk about it* across the midline.
 
 ### 3 · Three Temporal Regimes of Interhemispheric Coordination
@@ -64,6 +67,9 @@ Cross-correlograms revealed three distinct coupling fingerprints:
 | 🌊 Oscillatory zero-lag | Hippocampus, Midbrain | Theta-driven common input |
 | 🔵 Broad sustained zero-lag | Prefrontal, Superior Colliculus | Tonic bilateral coordination |
 | ⬆️ Asymmetric positive-lag | Retrosplenial, Posterior Thalamus | Directional relay |
+
+<img width="1858" height="902" alt="image" src="https://github.com/user-attachments/assets/97deee8f-f8e7-4d31-a2fe-fe182c1ebc67" />
+
 
 ---
 
