@@ -21,14 +21,12 @@ project:
     - Visualization
     - Writing - original draft
     - Writing - review & editing
-  - name: Sharma, A.J.
+  - name: Hamna Kaleem
     orcid: 0000-0000-0000-0002
     affiliations:
-    - Department of Earth Sciences, Indian Institute of Technology Bombay, Mumbai, India
+    - School of Electrical Engineering & Computer Science (SEECS), National University of Science & Technology (NUST), Pakistan
     roles:
     - Formal analysis
-    - Investigation
-    - Writing - original draft
     - Writing - review & editing
   - name: Tanaka, S.
     affiliations:
