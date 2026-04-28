@@ -66,12 +66,27 @@ The Swanson flatmap visualizes this dissociation (Figure 3): coupling is dominat
 ## 3.3 Choice encoding strength varied widely across regions. 
 
 The strongest encoders were SCdg (r_choice = 0.34, +75 ms), PL6a (0.26, −75 ms), and PO (0.26, +475 ms) (Figure 4). PL6a's pre-movement timing supports motor planning; PO and ILA6a peaked post-movement. 
+<p align="center">
+  <img src="figures/Figure_4. Choice encoding strength.png" width="800"/>
+</p>
+
+<p align="center">. 
 
 Bilateral coupling was sustained across the trial in motor, hippocampal, and midbrain regions, with phase-dependent modulation in visual and thalamic regions (Figure 5).
+<p align="center">
+  <img src="figures/Figure_5. Bilateral coupling strength r(t) over time.png" width="800"/>
+</p>
+
+<p align="center">. 
 
 ## 3.4 Three temporal profiles identified in bilateral coupling cross-correlograms. 
 
 Cross-correlograms (±500ms, 25ms resolution) revealed zero-lag dominance across the majority of regions, inconsistent with sequential hemispheric relay and consistent with common-input drive (Figure 6). Three exploratory profiles emerged: oscillatory zero-lag coupling with theta-period flanking in hippocampal and midbrain regions; broad sustained zero-lag coupling in prefrontal and collicular regions; and asymmetric positive-lag profiles in retrosplenial and posterior thalamic regions. Though not individually significant after permutation correction, their anatomical specificity points to mechanistically distinct bilateral coordination strategies across the brain's functional hierarchy.
+<p align="center">
+  <img src="figures/Figure_6. Cross-correlogram heatmap.png" width="800"/>
+</p>
+
+<p align="center">.
 
 # 4. Discussions
 
