@@ -49,11 +49,18 @@ Temporal CCA, applied independently at each time bin with cross-validation, is r
 
 <p align="center">
   <strong>Figure 1 — Top 15 brain regions ranked by bilateral coupling strength (peak r), with 95% confidence intervals.</strong>
-</p>). Hippocampal formation (SUB: 0.96; CA1: 0.91; DG: 0.85–0.88) and midbrain nuclei (APN: 0.89; MRN: 0.87) showed the strongest coupling; higher visual areas the weakest (Supplementary Figure 1). This heterogeneity argues against a single global synchronization mechanism and suggests an extension of the distributed coding framework (Steinmetz et al., 2019) to the interhemispheric domain.
+</p>. 
+Hippocampal formation (SUB: 0.96; CA1: 0.91; DG: 0.85–0.88) and midbrain nuclei (APN: 0.89; MRN: 0.87) showed the strongest coupling; higher visual areas the weakest (Supplementary Figure 1). This heterogeneity argues against a single global synchronization mechanism and suggests an extension of the distributed coding framework (Steinmetz et al., 2019) to the interhemispheric domain.
 
 ## 3.2 Coupling strength and choice encoding are dissociated. 
 
-Peak coupling and peak choice encoding |r_choice| were uncorrelated across regions (Spearman ρ = −0.21, p = 0.17; Figure 2).
+Peak coupling and peak choice encoding |r_choice| were uncorrelated across regions (Spearman ρ = −0.21, p = 0.17).<p align="center">
+  <img src="figures/Figure_2.Choice encoding strength.png" width="800"/>
+</p>
+
+<p align="center">
+  <strong>Figure 2 — Choice encoding strength.png.</strong>
+</p>. 
 
 Hippocampal regions had the highest coupling but the lowest decision fraction — the proportion of bilateral coupling devoted to choice encoding, defined as |r_choice| / r_peak — (CA1: 0.04; SUB: 0.06), meaning less than 6% of their bilateral synchrony related to the animal's upcoming choice. In contrast, prelimbic and infralimbic cortex had moderate coupling with the highest decision fraction (PL6a: 0.22; ILA6a: 0.20), indicating that over a fifth of their interhemispheric coordination specifically carried decision information.
 The Swanson flatmap visualizes this dissociation (Figure 3): coupling is dominated by hippocampal and midbrain structures, while choice encoding concentrates in prefrontal and posterior thalamic regions, paralleling the selective communication subspace of Semedo et al. (2019, Neuron) extended to the bilateral context.
