@@ -105,3 +105,5 @@ Our study has several limitations. The IBL Brainwidemap dataset is dominated by 
 
 Given the wealth of unilateral data and the restrictions in obtaining bilateral recordings, machine-learning frameworks are being developed to infer contralateral dynamics from recorded hemispheres. Applied to IBL's large-scale left-hemisphere data, such models could probe bilateral dynamics at greater scale. Optogenetic unilateral silencing of top choice-encoding regions would test whether bilateral coupling is causally necessary for coordinated choice. Linking coupling strength to behavioral outcomes (accuracy, stimulus contrast) would clarify its functional relevance. Decoding-based extensions, replacing Pearson correlation with classifiers trained jointly on canonical variates, would more precisely resolve when decision information emerges in the bilateral subspace. Together, these directions would move the field from characterizing interhemispheric coordination to testing its computational necessity.
 
+## Links
+Github Page with Code and Notebooks [github: https://github.com/maleeshakarawita/Neuronova]
