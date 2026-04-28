@@ -1,8 +1,3 @@
-version: 1
-extends:
-- https://raw.githubusercontent.com/impact-scholars/impact-scholars.github.io/v0.1.0/nexus.yml
-- https://raw.githubusercontent.com/impact-scholars/isp-actions-config/v0.1.0/isp-micropublication-2025.yml
-
 project:
   # Uncomment and fill when published
   # doi: 10.5281/zenodo.XXXXXXX
@@ -11,7 +6,7 @@ project:
   - name: Anastassiya Yegarmina
     orcid: 0009-0005-0791-9866
     affiliations:
-    - Neuromatch Academy
+    - Neuromatch Academy, Neuromatch, Inc.
     roles:
     - Conceptualization
     - Formal analysis
@@ -27,42 +22,40 @@ project:
     - School of Electrical Engineering & Computer Science (SEECS), National University of Science & Technology (NUST), Pakistan
     roles:
     - Conceptualization
+    - Formal analysis
+    - Writing - review & editing
+  - name:  Zahra Samimi
+    orcid: 0009-0004-4217-2318
+    affiliations:
+    - Neuromatch Academy, Neuromatch, Inc
+    roles:
+    - Conceptualization
+    - Formal analysis
     - Investigation
-    - Formal analysis
-    - Writing - original draft
     - Writing - review & editing
-  - name: Tanaka, S.
+  - name: Maleesha Karawita
+    orcid: 0009-0006-6644-3279
     affiliations:
-    - College of Urban and Environmental Sciences, Peking University, Beijing, China
+    - Neuromatch Academy, Neuromatch, Inc.
     roles:
+    - Conceptualization
     - Formal analysis
+    - Investigation
+    - Methodology
     - Writing - original draft
-    - Writing - review & editing
-  - name: Vera Gutierrez, C.
-    affiliations:
-    - Institute of Geology, Mining, and Metallurgy, Universidad Nacional Mayor de San Marcos, Lima, Peru
-    roles:
-    - Formal analysis
-    - Writing - original draft
-    - Writing - review & editing
-  - name: Ndlovu, T.
-    affiliations:
-    - Marine Research and Development, Oceanic Dynamics Ltd., Cape Town, South Africa
-    roles:
-    - Formal analysis
     - Writing - review & editing
 
   toc:
   - file: index.md
 
   id: isp-micropublication-template
-  title: This is the title of our awesome micropublication
+  title: Bilateral hemispheric coupling is widespread but dissociated from choice encoding across the mouse brain
   keywords:
-  - keyword1
-  - keyword2
-  - keyword3
-  - keyword4
-  github: https://github.com/impact-scholars/isp-micropublication-template
+  - Canonical Correlation Analysis (CCA)
+  - International Brain Laboratory (IBL)
+  - Interhemispheric coupling
+  - Decision-specific lateralization
+  github: https://github.com/maleeshakarawita/Neuronova
   bibliography:
   - bib.bib
   # downloads:
