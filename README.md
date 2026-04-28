@@ -79,12 +79,20 @@ Cross-correlograms revealed three distinct coupling fingerprints:
 
 ## ✦ Methods at a Glance
 
+Neural activity from **-500 to 0 ms** pre-movement was PCA-compressed to 
+**3 components per hemisphere**, then passed through **Temporal CCA** 
+(per time bin, 5-fold cross-validated) to extract the dominant bilateral 
+communication mode. Two parallel paths — cross-correlograms and 
+within-hemisphere trajectory analysis — fed into three core outputs:
+
+| Metric | Description |
+|--------|-------------|
+| `r_peak` | Bilateral coupling strength |
+| `r_choice` | Choice information in the bilateral subspace |
+| `hemisphere_dominance` | Asymmetry between hemispheres in decision encoding |
 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/89a370b5-6f54-4f02-9ff4-1260ffee49d4" />
 
-
-**Significance**: 500-permutation shuffle test (right-hemisphere trial order)
-**Aggregation**: Fisher z-transformation across sessions
 
 ---
 
@@ -135,7 +143,7 @@ git clone https://github.com/maleeshakarawita/Neuronova
 |---|---|
 | A. Yegarmina | Neuromatch Academy |
 | M. Karawita | Neuromatch Academy |
-| H. Kaleem | SEECS, NUST Pakistan |
+| H. Kaleem | Neuromatch Academy |
 | Z. Samimi | Neuromatch Academy |
 
 We owe deep thanks to our mentor **Nader Nikbakht** and to the **Neuromatch Impact Scholars Program** for making this work possible.
