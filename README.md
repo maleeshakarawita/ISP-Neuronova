@@ -81,23 +81,6 @@ Cross-correlograms revealed three distinct coupling fingerprints:
 
 ```
 
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/4a612d37-6852-4ae2-a2cb-13e84c5f9006" />
-
-IBL Brainwidemap Dataset
-        │
-        ▼
-Spike binning (25 ms) + Gaussian smoothing (σ ≈ 37 ms)
-        │
-        ▼
-PCA → K=3 components/hemisphere (median 25.9% variance)
-        │
-        ▼
-Temporal CCA with 3-fold cross-validation
-        │
-        ├──▶ Peak coupling (r_peak)
-        ├──▶ Choice encoding (r_choice)
-        ├──▶ Cross-correlogram lag analysis
-        └──▶ Logistic regression decoder (5-fold CV)
 ```
 
 **Significance**: 500-permutation shuffle test (right-hemisphere trial order)
