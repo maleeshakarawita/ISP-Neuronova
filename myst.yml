@@ -19,7 +19,7 @@ project:
   - name: Hamna Kaleem
     orcid: 0009-0000-8906-3291
     affiliations:
-    - School of Electrical Engineering & Computer Science (SEECS), National University of Science & Technology (NUST), Pakistan
+    - Neuromatch Academy, Neuromatch, Inc
     roles:
     - Conceptualization
     - Formal analysis
@@ -44,12 +44,25 @@ project:
     - Methodology
     - Writing - original draft
     - Writing - review & editing
-
+- name: Nader Nikbakht
+    orcid: 
+    affiliations:
+    - McGovern Institute for Brain Research, MIT
+    roles:
+   - Conceptualization
+    - Formal analysis
+    - Investigation
+    - Methodology
+    - Software
+    - Visualization
+    - Writing - original draft
+    - Writing - review & editing
+    
   toc:
   - file: index.md
 
   id: isp-micropublication-template
-  title: Bilateral hemispheric coupling is widespread but dissociated from choice encoding across the mouse brain
+  title: Bilateral hemispheric coupling is widespread but does not strictly predict choice encoding across the mouse brain
   keywords:
   - Canonical Correlation Analysis (CCA)
   - International Brain Laboratory (IBL)
