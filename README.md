@@ -1,5 +1,5 @@
 # 🧠 Bilateral Hemispheric Coupling in the Mouse Brain
-### *Widespread. Dissociated. Revealing.*
+
 
 <img width="1858" height="902" alt="image" src="https://github.com/user-attachments/assets/97deee8f-f8e7-4d31-a2fe-fe182c1ebc67" />
 
@@ -17,7 +17,6 @@ Neuromatch Academy, Neuromatch Inc. | NUST, Pakistan
 
 We set out to answer a simple question: **Do the brain regions that talk to each other the most also make decisions together?**
 
-The answer — emphatically, elegantly — is **NO**.
 
 ---
 
@@ -68,7 +67,7 @@ Cross-correlograms revealed three distinct coupling fingerprints:
 
 | Profile | Regions | Mechanism |
 |---|---|---|
-| 🌊 Oscillatory zero-lag | Hippocampus, Midbrain | Theta-driven common input |
+| 🌊 Oscillatory zero-lag | Hippocampus, Midbrain 
 | 🔵 Broad sustained zero-lag | Prefrontal, Superior Colliculus | Tonic bilateral coordination |
 | ⬆️ Asymmetric positive-lag | Retrosplenial, Posterior Thalamus | Directional relay |
 
