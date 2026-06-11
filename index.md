@@ -21,7 +21,11 @@ To characterize bilateral population dynamics, we first reduced the high-dimensi
 
 ## 2.2 Temporal Canonical Correlation Analysis (CCA) with Cross-Validation
 To quantify the strength of interhemispheric coordination at each moment in the trial, we applied CCA to the PCA-reduced bilateral representations. PCA scores were fitted on the full (trials × time) matrix and the 80 time bins are the same 25 ms bins used for spike counting. Within-hemisphere decision encoding strength was quantified as the Fréchet distance between choice-averaged PCA trajectories (left-choice vs right-choice trials), providing a measure of trajectory separation in the low-dimensional neural manifold independent of bilateral coupling. For each time bin, we computed canonical variates via 3-fold cross-validation on trials. CCA finds the specific vectors a and b that maximize the normalized covariance (i.e., Pearson correlation) between left and right canonical variates across trials.
-$$r_{\text{CCA}}(t) = \max_{a,b} \frac{\text{cov}(L_t a,\ R_t b)}{\sqrt{\text{var}(L_t a)\,\text{var}(R_t b)}}$$
+
+$$
+r_{\text{CCA}}(t) = \max_{a,b} \frac{\text{cov}(L_t a,\ R_t b)}{\sqrt{\text{var}(L_t a)\,\text{var}(R_t b)}}
+$$
+
 Lt, Rt — the matrix of left and right hemisphere PCA scores at time bin t, shape (n_trials, 3). Each row is one trial, each column is one PC.
 a, b — the weight vectors for the left/right hemispheres, shape (3,). 
 Peak bilateral coupling (r_peak) was identified as max(r_time) across all time bins. Reported r-values reflect test-fold estimates to guard against overfitting. 
