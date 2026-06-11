@@ -52,7 +52,7 @@ The entire pipeline was implemented in Python 3.10; scikit-learn, numpy, scipy.s
 
 ## 3.1 Bilateral coupling is brain-wide but spatially heterogeneous. 
 
-Temporal CCA, applied independently at each time bin with cross-validation, is robust to temporal misalignments from spike sorting and circuit-specific timescales, ensuring regional differences in coupling reflect genuine interhemispheric coordination rather than biophysical confounds. All 39 regions showed coupling above permutation null, ranging from r = 0.25 (VISpm2/3) to r = 0.96 (SUB)(Figure 2) <p align="center">
+Temporal CCA, applied independently at each time bin with cross-validation, is robust to temporal misalignments from spike sorting and circuit-specific timescales, ensuring regional differences in coupling reflect genuine interhemispheric coordination rather than biophysical confounds. All 39 regions showed coupling above permutation null, ranging from r = 0.25 (VISpm2/3) to r = 0.96 (SUB)(Figure 2). <p align="center">
   <img src="figures/figure_2_coupling_ranked_brain_regions.png" width="900"/>
 </p>
 
