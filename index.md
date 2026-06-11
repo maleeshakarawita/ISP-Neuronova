@@ -46,7 +46,7 @@ To verify that the symmetric bilateral encoding observed in the CCA analysis was
 Region-level summaries were computed across sessions using Fisher z-transformation of r values to aggregate coupling estimates reliably across sessions with varying trial counts. Confidence intervals were computed as tanh(z_mean ± 1.96×SE_z).
 
 ## 2.8 Software
-The entire pipeline was implemented in Python 3.10; scikit-learn, numpy, scipy.stats, pandas. All code and reproducible outputs available at [https://github.com/maleeshakarawita/Neuronova].
+The entire pipeline was implemented in Python 3.10; scikit-learn, numpy, scipy.stats, pandas. General purpose large language models were used in this work for code assistance (error handling, optimising computation) and grammar checks. All code and reproducible outputs available at [https://github.com/maleeshakarawita/Neuronova].
 
 # 3. Results
 
